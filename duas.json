@@ -1,0 +1,292 @@
+{
+  "duas": [
+    {
+      "id": 1,
+      "title": "دعاء الخير في الدنيا والآخرة",
+      "text": "رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ",
+      "translation": "Our Lord, grant us good in this world and good in the Hereafter and protect us from the punishment of the Fire"
+    },
+    {
+      "id": 2,
+      "title": "دعاء طلب المغفرة",
+      "text": "رَبَّنَا اغْفِرْ لَنَا ذُنُوبَنَا وَإِسْرَافَنَا فِي أَمْرِنَا وَثَبِّتْ أَقْدَامَنَا وَانصُرْنَا عَلَى القَوْمِ الكَافِرِينَ",
+      "translation": "Our Lord, forgive us our sins and our transgressions, establish our feet firmly, and give us victory over the disbelieving people"
+    },
+    {
+      "id": 3,
+      "title": "دعاء الاستيقاظ من النوم",
+      "text": "الحَمْدُ للهِ الَّذِي أَحْيَانَا بَعْدَ مَا أَمَاتَنَا وَإِلَيْهِ النُّشُورُ",
+      "translation": "All praise is for Allah who gave us life after having taken it from us and unto Him is the resurrection"
+    },
+    {
+      "id": 4,
+      "title": "دعاء قبل النوم",
+      "text": "باسْمِكَ اللَّهُمَّ أَمُوتُ وَأَحْيَا",
+      "translation": "In Your name O Allah, I live and die"
+    },
+    {
+      "id": 5,
+      "title": "دعاء دخول المسجد",
+      "text": "اللَّهُمَّ افْتَحْ لِي أَبْوَابَ رَحْمَتِكَ",
+      "translation": "O Allah, open the gates of Your mercy for me"
+    },
+    {
+      "id": 6,
+      "title": "دعاء الخروج من المسجد",
+      "text": "اللَّهُمَّ إِنِّي أَسْأَلُكَ مِنْ فَضْلِكَ",
+      "translation": "O Allah, I ask You of Your bounty"
+    },
+    {
+      "id": 7,
+      "title": "دعاء ركوب السيارة",
+      "text": "سُبْحَانَ الَّذِي سَخَّرَ لَنَا هَذَا وَمَا كُنَّا لَهُ مُقْرِنِينَ وَإِنَّا إِلَى رَبِّنَا لَمُنقَلِبُونَ",
+      "translation": "Glory to Him Who has subjected this to us, and we could never have it by our efforts, and indeed we will return to our Lord"
+    },
+    {
+      "id": 8,
+      "title": "دعاء دخول المنزل",
+      "text": "اللَّهُمَّ إِنِّي أَسْأَلُكَ خَيْرَ المَوْلِجِ وَخَيْرَ المَخْرَجِ، بِسْمِ اللهِ وَلَجْنَا، وَبِسْمِ اللهِ خَرَجْنَا، وَعَلَى اللهِ رَبِّنَا تَوَكَّلْنَا",
+      "translation": "O Allah, I ask You for the best entry and the best exit. In the name of Allah we enter, in the name of Allah we leave, and upon Allah our Lord we rely"
+    },
+    {
+      "id": 9,
+      "title": "دعاء الكرب",
+      "text": "لَا إِلَهَ إِلَّا اللهُ العَظِيمُ الحَلِيمُ، لَا إِلَهَ إِلَّا اللهُ رَبُّ العَرْشِ العَظِيمِ، لَا إِلَهَ إِلَّا اللهُ رَبُّ السَّمَاوَاتِ وَرَبُّ الأَرْضِ وَرَبُّ العَرْشِ الكَرِيمِ",
+      "translation": "There is no god but Allah, the Great, the Tolerant. There is no god but Allah, the Lord of the Magnificent Throne. There is no god but Allah, Lord of the heavens and Lord of the Earth and Lord of the Noble Throne"
+    },
+    {
+      "id": 10,
+      "title": "دعاء السفر",
+      "text": "اللَّهُمَّ إِنَّا نَسْأَلُكَ فِي سَفَرِنَا هَذَا البِرَّ وَالتَّقْوَى، وَمِنَ العَمَلِ مَا تَرْضَى، اللَّهُمَّ هَوِّنْ عَلَيْنَا سَفَرَنَا هَذَا وَاطْوِ عَنَّا بُعْدَهُ",
+      "translation": "O Allah, we ask You on this journey of ours for righteousness and piety, and for deeds that are pleasing to You. O Allah, make this journey easy for us and fold up for us its distance"
+    },
+    {
+      "id": 11,
+      "title": "دعاء المطر",
+      "text": "اللَّهُمَّ صَيِّباً نَافِعاً",
+      "translation": "O Allah, make it a beneficial rain"
+    },
+    {
+      "id": 12,
+      "title": "دعاء الريح",
+      "text": "اللَّهُمَّ إِنِّي أَسْأَلُكَ خَيْرَهَا، وَأَعُوذُ بِكَ مِنْ شَرِّهَا",
+      "translation": "O Allah, I ask You for its goodness and seek refuge in You from its evil"
+    },
+    {
+      "id": 13,
+      "title": "دعاء الرعد",
+      "text": "سُبْحَانَ الَّذِي يُسَبِّحُ الرَّعْدُ بِحَمْدِهِ وَالمَلَائِكَةُ مِنْ خِيفَتِهِ",
+      "translation": "Glory be to Him Whom thunder glorifies His praise, and the angels out of fear of Him"
+    },
+    {
+      "id": 14,
+      "title": "دعاء رؤية الهلال",
+      "text": "اللهُ أَكْبَرُ، اللَّهُمَّ أَهِلَّهُ عَلَيْنَا بِالأَمْنِ وَالإِيمَانِ، وَالسَّلامَةِ وَالإِسْلامِ، رَبِّي وَرَبُّكَ اللهُ",
+      "translation": "Allah is the Greatest. O Allah, bring it over us with security and faith, safety and Islam. My Lord and your Lord is Allah"
+    },
+    {
+      "id": 15,
+      "title": "دعاء الاستخارة",
+      "text": "اللَّهُمَّ إِنِّي أَسْتَخِيرُكَ بِعِلْمِكَ، وَأَسْتَقْدِرُكَ بِقُدْرَتِكَ، وَأَسْأَلُكَ مِنْ فَضْلِكَ العَظِيمِ",
+      "translation": "O Allah, I seek Your guidance by virtue of Your knowledge, and I seek ability by virtue of Your power, and I ask You of Your great bounty"
+    },
+    {
+      "id": 16,
+      "title": "دعاء يوم عرفة",
+      "text": "لا إلَهَ إلاَّ اللهُ وَحْدَهُ لا شَرِيكَ لَهُ، لَهُ المُلْكُ ولَهُ الحَمْدُ وهُوَ عَلَى كُلِّ شَيءٍ قَدِيرٌ",
+      "translation": "There is no deity except Allah alone, with no partner. His is the dominion, and His is the praise, and He is over all things competent"
+    },
+    {
+      "id": 17,
+      "title": "دعاء الوالدين",
+      "text": "رَبِّ ارْحَمْهُمَا كَمَا رَبَّيَانِي صَغِيراً",
+      "translation": "My Lord, have mercy upon them as they brought me up when I was small"
+    },
+    {
+      "id": 18,
+      "title": "دعاء طلب العلم",
+      "text": "رَبِّ زِدْنِي عِلْماً",
+      "translation": "My Lord, increase me in knowledge"
+    },
+    {
+      "id": 19,
+      "title": "دعاء الهم والحزن",
+      "text": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الهَمِّ وَالحَزَنِ، وَالعَجْزِ وَالكَسَلِ، وَالبُخْلِ وَالجُبْنِ، وَضَلَعِ الدَّيْنِ وَغَلَبَةِ الرِّجَالِ",
+      "translation": "O Allah, I seek refuge in You from anxiety and sorrow, weakness and laziness, miserliness and cowardice, the burden of debts and from being overpowered by men"
+    },
+    {
+      "id": 20,
+      "title": "دعاء الاستفتاح",
+      "text": "سُبْحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ، وَتَبَارَكَ اسْمُكَ، وَتَعَالَى جَدُّكَ، وَلَا إِلَهَ غَيْرُكَ",
+      "translation": "Glory is to You, O Allah, and praise. Blessed is Your name and exalted is Your majesty, and there is no deity worthy of worship except You"
+    },
+    {
+      "id": 21,
+      "title": "دعاء قضاء الدين",
+      "text": "اللَّهُمَّ اكْفِنِي بِحَلَالِكَ عَنْ حَرَامِكَ، وَأَغْنِنِي بِفَضْلِكَ عَمَّنْ سِوَاكَ",
+      "translation": "O Allah, suffice me with what You have allowed instead of what You have forbidden, and make me independent of all others besides You"
+    },
+    {
+      "id": 22,
+      "title": "دعاء المريض",
+      "text": "اللَّهُمَّ رَبَّ النَّاسِ، أَذْهِبِ البَأْسَ، اشْفِ أَنْتَ الشَّافِي، لَا شِفَاءَ إِلَّا شِفَاؤُكَ، شِفَاءً لَا يُغَادِرُ سَقَمًا",
+      "translation": "O Allah, Lord of mankind, remove the harm and heal, You are the Healer, there is no healing except Your healing, a healing that leaves no disease"
+    },
+    {
+      "id": 23,
+      "title": "دعاء الاستسقاء",
+      "text": "اللَّهُمَّ اسْقِنَا غَيْثاً مُغِيثاً مَرِيئاً مَرِيعاً نَافِعاً غَيْرَ ضَارٍّ، عَاجِلاً غَيْرَ آجِلٍ",
+      "translation": "O Allah, send upon us helpful, wholesome and healthy rain, beneficial not harmful, now, not later"
+    },
+    {
+      "id": 24,
+      "title": "دعاء التوبة",
+      "text": "رَبِّ اغْفِرْ وَارْحَمْ وَأَنْتَ خَيْرُ الرَّاحِمِينَ",
+      "translation": "My Lord, forgive and have mercy, and You are the Best of those who show mercy"
+    },
+    {
+      "id": 25,
+      "title": "دعاء الزواج",
+      "text": "اللَّهُمَّ بَارِكْ لَهُمَا، وَبَارِكْ عَلَيْهِمَا، وَاجْمَعْ بَيْنَهُمَا فِي خَيْرٍ",
+      "translation": "O Allah, bless them, and shower Your blessings upon them, and unite them in goodness"
+    },
+    {
+      "id": 26,
+      "title": "دعاء السعي",
+      "text": "رَبِّ اغْفِرْ وَارْحَمْ، إِنَّكَ أَنْتَ الأَعَزُّ الأَكْرَمُ",
+      "translation": "My Lord, forgive and have mercy, indeed You are the Most Mighty, the Most Noble"
+    },
+    {
+      "id": 27,
+      "title": "دعاء الرزق",
+      "text": "اللَّهُمَّ إِنِّي أَسْأَلُكَ رِزْقاً طَيِّباً، وَعِلْماً نَافِعاً، وَعَمَلاً مُتَقَبَّلاً",
+      "translation": "O Allah, I ask You for good provision, beneficial knowledge, and acceptable deeds"
+    },
+    {
+      "id": 28,
+      "title": "دعاء الحفظ",
+      "text": "اللَّهُمَّ احْفَظْنِي مِنْ بَيْنِ يَدَيَّ، وَمِنْ خَلْفِي، وَعَنْ يَمِينِي، وَعَنْ شِمَالِي، وَمِنْ فَوْقِي، وَأَعُوذُ بِعَظَمَتِكَ أَنْ أُغْتَالَ مِنْ تَحْتِي",
+      "translation": "O Allah, protect me from my front, from my back, from my right, from my left, and from above me, and I seek refuge in Your Greatness from being taken unaware from beneath me"
+    },
+    {
+      "id": 29,
+      "title": "دعاء الاستعاذة",
+      "text": "أَعُوذُ بِكَلِمَاتِ اللهِ التَّامَّاتِ مِنْ شَرِّ مَا خَلَقَ",
+      "translation": "I seek refuge in the perfect words of Allah from the evil of what He has created"
+    },
+    {
+      "id": 30,
+      "title": "دعاء الصباح",
+      "text": "أَصْبَحْنَا وَأَصْبَحَ المُلْكُ لِلَّهِ، وَالحَمْدُ لِلَّهِ، لَا إِلَهَ إِلَّا اللهُ وَحْدَهُ لَا شَرِيكَ لَهُ",
+      "translation": "We have reached the morning and at this very time all sovereignty belongs to Allah. All praise is for Allah. None has the right to be worshipped except Allah, alone, without any partner"
+    },
+    {
+      "id": 31,
+      "title": "دعاء المساء",
+      "text": "أَمْسَيْنَا وَأَمْسَى المُلْكُ لِلَّهِ، وَالحَمْدُ لِلَّهِ، لَا إِلَهَ إِلَّا اللهُ وَحْدَهُ لَا شَرِيكَ لَهُ",
+      "translation": "We have reached the evening and at this very time all sovereignty belongs to Allah. All praise is for Allah. None has the right to be worshipped except Allah, alone, without any partner"
+    },
+    {
+      "id": 32,
+      "title": "دعاء قبل الطعام",
+      "text": "بِسْمِ اللهِ، وَعَلَى بَرَكَةِ اللهِ",
+      "translation": "In the name of Allah, and with the blessings of Allah"
+    },
+    {
+      "id": 33,
+      "title": "دعاء بعد الطعام",
+      "text": "الحَمْدُ لِلَّهِ الَّذِي أَطْعَمَنَا وَسَقَانَا، وَجَعَلَنَا مِنَ المُسْلِمِينَ",
+      "translation": "All praise is for Allah who has given us food and drink and made us Muslims"
+    },
+    {
+      "id": 34,
+      "title": "دعاء دخول السوق",
+      "text": "لَا إِلَهَ إِلَّا اللهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ المُلْكُ وَلَهُ الحَمْدُ، يُحْيِي وَيُمِيتُ، وَهُوَ حَيٌّ لَا يَمُوتُ، بِيَدِهِ الخَيْرُ، وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ",
+      "translation": "There is no deity worthy of worship except Allah, alone, without any partner. His is the dominion and His is the praise. He gives life and causes death, and He is living and does not die. In His hand is all good, and He is over all things competent"
+    },
+    {
+      "id": 35,
+      "title": "دعاء ختم القرآن",
+      "text": "اللَّهُمَّ ارْحَمْنِي بِالقُرْآنِ، وَاجْعَلْهُ لِي إِمَاماً وَنُوراً وَهُدىً وَرَحْمَةً، اللَّهُمَّ ذَكِّرْنِي مِنْهُ مَا نَسِيتُ، وَعَلِّمْنِي مِنْهُ مَا جَهِلْتُ",
+      "translation": "O Allah, have mercy on me through the Quran, and make it for me a leader, light, guidance and mercy. O Allah, remind me of what I have forgotten from it and teach me what I do not know from it"
+    },
+    {
+      "id": 36,
+      "title": "دعاء الوضوء",
+      "text": "أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا اللهُ وَحْدَهُ لَا شَرِيكَ لَهُ، وَأَشْهَدُ أَنَّ مُحَمَّداً عَبْدُهُ وَرَسُولُهُ، اللَّهُمَّ اجْعَلْنِي مِنَ التَّوَّابِينَ وَاجْعَلْنِي مِنَ المُتَطَهِّرِينَ",
+      "translation": "I bear witness that there is no deity worthy of worship except Allah alone, who has no partner, and I bear witness that Muhammad is His servant and messenger. O Allah, make me among those who repent and make me among those who purify themselves"
+    },
+    {
+      "id": 37,
+      "title": "دعاء الخروج من المنزل",
+      "text": "بِسْمِ اللهِ، تَوَكَّلْتُ عَلَى اللهِ، وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللهِ",
+      "translation": "In the name of Allah, I place my trust in Allah, and there is no might nor power except with Allah"
+    },
+    {
+      "id": 38,
+      "title": "دعاء لبس الثوب",
+      "text": "الحَمْدُ لِلَّهِ الَّذِي كَسَانِي هَذَا وَرَزَقَنِيهِ مِنْ غَيْرِ حَوْلٍ مِنِّي وَلَا قُوَّةٍ",
+      "translation": "All praise is for Allah who has clothed me with this and provided it for me, with no power or might from myself"
+    },
+    {
+      "id": 39,
+      "title": "دعاء الغضب",
+      "text": "أَعُوذُ بِاللهِ مِنَ الشَّيْطَانِ الرَّجِيمِ",
+      "translation": "I seek refuge in Allah from the accursed Satan"
+    },
+    {
+      "id": 40,
+      "title": "دعاء الخوف",
+      "text": "اللَّهُمَّ اكْفِنِيهِمْ بِمَا شِئْتَ",
+      "translation": "O Allah, protect me from them however You will"
+    },
+    {
+      "id": 41,
+      "title": "دعاء الكرب والشدة",
+      "text": "لَا إِلَهَ إِلَّا أَنْتَ سُبْحَانَكَ إِنِّي كُنْتُ مِنَ الظَّالِمِينَ",
+      "translation": "There is no deity except You; exalted are You. Indeed, I have been of the wrongdoers"
+    },
+    {
+      "id": 42,
+      "title": "دعاء السجود",
+      "text": "سُبْحَانَ رَبِّيَ الأَعْلَى",
+      "translation": "Glory be to my Lord, the Most High"
+    },
+    {
+      "id": 43,
+      "title": "دعاء الركوع",
+      "text": "سُبْحَانَ رَبِّيَ العَظِيمِ",
+      "translation": "Glory be to my Lord, the Magnificent"
+    },
+    {
+      "id": 44,
+      "title": "دعاء الاعتدال",
+      "text": "رَبَّنَا وَلَكَ الحَمْدُ، حَمْداً كَثِيراً طَيِّباً مُبَارَكاً فِيهِ",
+      "translation": "Our Lord, to You belongs all praise, abundant, good and blessed praise"
+    },
+    {
+      "id": 45,
+      "title": "دعاء التشهد",
+      "text": "التَّحِيَّاتُ لِلَّهِ، وَالصَّلَوَاتُ، وَالطَّيِّبَاتُ، السَّلَامُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ",
+      "translation": "All compliments, prayers and pure words are due to Allah. Peace be upon you, O Prophet, and the mercy of Allah and His blessings"
+    },
+    {
+      "id": 46,
+      "title": "دعاء المجلس",
+      "text": "سُبْحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ، أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا أَنْتَ، أَسْتَغْفِرُكَ وَأَتُوبُ إِلَيْكَ",
+      "translation": "Glory and praise be to You, O Allah. I bear witness that there is no deity except You. I seek Your forgiveness and repent to You"
+    },
+    {
+      "id": 47,
+      "title": "دعاء زيارة القبور",
+      "text": "السَّلَامُ عَلَيْكُمْ دَارَ قَوْمٍ مُؤْمِنِينَ، وَإِنَّا إِنْ شَاءَ اللهُ بِكُمْ لَاحِقُونَ",
+      "translation": "Peace be upon you, O abode of the believing people. Indeed, Allah willing, we will join you"
+    },
+    {
+      "id": 48,
+      "title": "دعاء الريح الشديدة",
+      "text": "اللَّهُمَّ إِنِّي أَسْأَلُكَ خَيْرَهَا، وَخَيْرَ مَا فِيهَا، وَخَيْرَ مَا أُرْسِلَتْ بِهِ، وَأَعُوذُ بِكَ مِنْ شَرِّهَا، وَشَرِّ مَا فِيهَا، وَشَرِّ مَا أُرْسِلَتْ بِهِ",
+      "translation": "O Allah, I ask You for its goodness, the goodness within it, and the goodness with which it was sent. And I seek refuge in You from its evil, the evil within it, and the evil with which it was sent"
+    }
+  ]
+}
