@@ -287,6 +287,198 @@
       "title": "دعاء الريح الشديدة",
       "text": "اللَّهُمَّ إِنِّي أَسْأَلُكَ خَيْرَهَا، وَخَيْرَ مَا فِيهَا، وَخَيْرَ مَا أُرْسِلَتْ بِهِ، وَأَعُوذُ بِكَ مِنْ شَرِّهَا، وَشَرِّ مَا فِيهَا، وَشَرِّ مَا أُرْسِلَتْ بِهِ",
       "translation": "O Allah, I ask You for its goodness, the goodness within it, and the goodness with which it was sent. And I seek refuge in You from its evil, the evil within it, and the evil with which it was sent"
+    },
+        {
+      "id": 49,
+      "title": "دعاء تفريج الهم",
+      "text": "اللَّهُمَّ إني أعوذ بك من الهم والحزن، وأعوذ بك من العجز والكسل، وأعوذ بك من الجبن والبخل، وأعوذ بك من غلبة الدين وقهر الرجال",
+      "translation": "O Allah, I seek refuge in You from worry and sadness, from weakness and laziness, from cowardice and miserliness, and I seek refuge in You from being overwhelmed by debt and from being overpowered by men"
+    },
+    {
+      "id": 50,
+      "title": "دعاء الشفاء",
+      "text": "أسأل الله العظيم رب العرش العظيم أن يشفيك",
+      "translation": "I ask Allah the Mighty, the Lord of the Mighty Throne, to cure you"
+    },
+    {
+      "id": 51,
+      "title": "دعاء الستر",
+      "text": "اللَّهُمَّ اسْتُرْنِي فَوْقَ الأَرْضِ وَتَحْتَ الأَرْضِ وَيَوْمَ الْعَرْضِ عَلَيْكَ",
+      "translation": "O Allah, conceal me above the earth, under the earth, and on the Day of Presentation before You"
+    },
+    {
+      "id": 52,
+      "title": "دعاء الرضا",
+      "text": "اللَّهُمَّ اجعلني راضياً بما قسمت لي، ومباركاً فيما رزقتني",
+      "translation": "O Allah, make me content with what You have allotted for me, and bless me in what You have provided for me"
+    },
+    {
+      "id": 53,
+      "title": "دعاء اليقين",
+      "text": "اللَّهُمَّ ارزقني يقيناً لا يرتد، ونعيماً لا ينفد",
+      "translation": "O Allah, grant me unwavering certainty and unending bliss"
+    },
+    {
+      "id": 54,
+      "title": "دعاء حسن الخاتمة",
+      "text": "اللَّهُمَّ اختم لنا بخير، واجعل عواقب أمورنا إلى خير",
+      "translation": "O Allah, end our affairs with goodness, and make the outcomes of our matters good"
+    },
+    {
+      "id": 55,
+      "title": "دعاء الكفاية",
+      "text": "اللَّهُمَّ اكفني بحلالك عن حرامك، وأغنني بفضلك عمن سواك",
+      "translation": "O Allah, suffice me with Your lawful against Your forbidden, and make me independent of all others besides You"
+    },
+    {
+      "id": 56,
+      "title": "دعاء النجاة من النار",
+      "text": "اللَّهُمَّ أجرني من النار",
+      "translation": "O Allah, save me from the Fire"
+    },
+    {
+      "id": 57,
+      "title": "دعاء الثبات على الدين",
+      "text": "اللَّهُمَّ يا مقلب القلوب ثبت قلبي على دينك",
+      "translation": "O Allah, Turner of hearts, make my heart steadfast upon Your religion"
+    },
+    {
+      "id": 58,
+      "title": "دعاء التوفيق",
+      "text": "اللَّهُمَّ وفقني لما تحب وترضى",
+      "translation": "O Allah, grant me success in what You love and are pleased with"
+    },
+    {
+      "id": 59,
+      "title": "دعاء تيسير الأمور",
+      "text": "اللَّهُمَّ لا سهل إلا ما جعلته سهلاً، وأنت تجعل الحزن إذا شئت سهلاً",
+      "translation": "O Allah, there is no ease except in that which You have made easy, and You make the difficult, if You will, easy"
+    },
+    {
+      "id": 60,
+      "title": "دعاء تحقيق الأماني",
+      "text": "اللَّهُمَّ ارزقني ما أتمنى وأكثر مما أتمنى",
+      "translation": "O Allah, grant me what I wish for and more than I wish for"
+    },
+    {
+      "id": 61,
+      "title": "دعاء للمغفرة",
+      "text": "رَبِّ اغْفِرْ لِي وَارْحَمْنِي وَتُبْ عَلَيَّ إِنَّكَ أَنْتَ التَّوَّابُ الرَّحِيمُ",
+      "translation": "My Lord, forgive me, have mercy on me, and turn toward me in forgiveness; truly, You are the Oft-Returning, the Most Merciful"
+    },
+    {
+      "id": 62,
+      "title": "دعاء الإيمان",
+      "text": "اللَّهُمَّ زِدْنِي إِيمَاناً وَيَقِيناً وَفِقْهاً",
+      "translation": "O Allah, increase me in faith, certainty, and understanding"
+    },
+    {
+      "id": 63,
+      "title": "دعاء طول العمر في طاعة الله",
+      "text": "اللَّهُمَّ اجعل خير عمري آخره وخير عملي خواتيمه",
+      "translation": "O Allah, make the best of my life its end, and the best of my deeds their conclusions"
+    },
+    {
+      "id": 64,
+      "title": "دعاء يوم الجمعة",
+      "text": "اللَّهُمَّ اجعل لنا في يوم الجمعة دعوة لا ترد ورزقاً لا يعد وباباً إلى الجنة لا يسد",
+      "translation": "O Allah, on Friday grant us an unanswered prayer, abundant provision, and an open door to Paradise"
+    },
+    {
+      "id": 65,
+      "title": "دعاء الفرج العاجل",
+      "text": "اللَّهُمَّ فرج همي ويسر أمري وارزقني من حيث لا أحتسب",
+      "translation": "O Allah, relieve my worry, ease my affairs, and provide for me from where I do not expect"
+    },
+    {
+      "id": 66,
+      "title": "دعاء الحماية من الحسد",
+      "text": "اللَّهُمَّ احفظني من أعين الحاسدين وشر الحاقدين",
+      "translation": "O Allah, protect me from the eyes of the envious and the evil of the spiteful"
+    },
+    {
+      "id": 67,
+      "title": "دعاء السعادة",
+      "text": "اللَّهُمَّ ارزقني سعادة الدارين",
+      "translation": "O Allah, grant me happiness in both worlds"
+    },
+    {
+      "id": 68,
+      "title": "دعاء البركة",
+      "text": "اللَّهُمَّ بارك لي فيما أعطيت",
+      "translation": "O Allah, bless for me what You have given"
+    },
+    {
+      "id": 69,
+      "title": "دعاء الشكر",
+      "text": "اللَّهُمَّ اجعلني لك شَكَّارًا",
+      "translation": "O Allah, make me greatly thankful to You"
+    },
+    {
+      "id": 70,
+      "title": "دعاء الأمان من الفتن",
+      "text": "اللَّهُمَّ قنا الفتن ما ظهر منها وما بطن",
+      "translation": "O Allah, protect us from trials, both apparent and hidden"
+    },
+    {
+      "id": 71,
+      "title": "دعاء الغنى",
+      "text": "اللَّهُمَّ اغنني بفضلك عمن سواك",
+      "translation": "O Allah, enrich me by Your bounty from all others besides You"
+    },
+    {
+      "id": 72,
+      "title": "دعاء الثناء على الله",
+      "text": "سُبْحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ، تَبَارَكَ اسْمُكَ، وَتَعَالَى جَدُّكَ",
+      "translation": "Glory be to You, O Allah, and praise; blessed is Your name, and exalted is Your majesty"
+    },
+    {
+      "id": 73,
+      "title": "دعاء التسبيح",
+      "text": "سُبْحَانَ اللهِ وَبِحَمْدِهِ، سُبْحَانَ اللهِ العَظِيمِ",
+      "translation": "Glory be to Allah and praise Him, Glory be to Allah the Almighty"
+    },
+    {
+      "id": 74,
+      "title": "دعاء الجنة",
+      "text": "اللَّهُمَّ اجعلني من أهل الجنة",
+      "translation": "O Allah, make me among the people of Paradise"
+    },
+    {
+      "id": 75,
+      "title": "دعاء تحصين النفس",
+      "text": "اللَّهُمَّ احفظني من بين يدي ومن خلفي وعن يميني وعن شمالي ومن فوقي وأعوذ بعظمتك أن أغتال من تحتي",
+      "translation": "O Allah, guard me from in front of me, behind me, on my right, on my left, and from above me, and I seek refuge in Your greatness from being taken unaware from beneath me"
+    },
+    {
+      "id": 76,
+      "title": "دعاء أول النهار",
+      "text": "اللَّهُمَّ بك أصبحنا وبك أمسينا وبك نحيا وبك نموت وإليك النشور",
+      "translation": "O Allah, by You we enter the morning and by You we enter the evening, by You we live and by You we die, and to You is the resurrection"
+    },
+    {
+      "id": 77,
+      "title": "دعاء طلب الرضا",
+      "text": "اللَّهُمَّ إني أسألك الرضا بعد القضاء",
+      "translation": "O Allah, I ask You for contentment after Your decree"
+    },
+    {
+      "id": 78,
+      "title": "دعاء الصبر",
+      "text": "رَبَّنَا أَفْرِغْ عَلَيْنَا صَبْرًا وَتَوَفَّنَا مُسْلِمِينَ",
+      "translation": "Our Lord, pour upon us patience and cause us to die as Muslims"
+    },
+    {
+      "id": 79,
+      "title": "دعاء دخول السوق",
+      "text": "لَا إِلَهَ إِلَّا اللهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ المُلْكُ وَلَهُ الحَمْدُ، يُحْيِي وَيُمِيتُ وَهُوَ حَيٌّ لَا يَمُوتُ، بِيَدِهِ الخَيْرُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ",
+      "translation": "There is no god but Allah alone, without partner. His is the dominion and His is the praise; He gives life and causes death, and He is living and does not die; in His hand is all good, and He is over all things competent"
+    },
+    {
+      "id": 80,
+      "title": "دعاء الاستعانة",
+      "text": "اللَّهُمَّ أعني على ذكرك وشكرك وحسن عبادتك",
+      "translation": "O Allah, help me to remember You, to thank You, and to worship You well"
     }
   ]
 }
