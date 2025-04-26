@@ -479,6 +479,246 @@
       "title": "دعاء الاستعانة",
       "text": "اللَّهُمَّ أعني على ذكرك وشكرك وحسن عبادتك",
       "translation": "O Allah, help me to remember You, to thank You, and to worship You well"
+    },
+        {
+      "id": 81,
+      "title": "دعاء التوبة",
+      "text": "رَبَّنَا ظَلَمْنَا أَنفُسَنَا وَإِن لَّمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا لَنَكُونَنَّ مِنَ الْخَاسِرِينَ",
+      "translation": "Our Lord, we have wronged ourselves, and if You do not forgive us and have mercy upon us, we will surely be among the losers"
+    },
+    {
+      "id": 82,
+      "title": "دعاء الثناء",
+      "text": "اللَّهُمَّ لك الحمد كله، ولك الشكر كله، وإليك يرجع الأمر كله",
+      "translation": "O Allah, to You belongs all praise, to You belongs all thanks, and to You all matters return"
+    },
+    {
+      "id": 83,
+      "title": "دعاء التوكل",
+      "text": "اللَّهُمَّ إني توكلت عليك وفوضت أمري إليك",
+      "translation": "O Allah, I place my trust in You and entrust my affairs to You"
+    },
+    {
+      "id": 84,
+      "title": "دعاء الاستغفار",
+      "text": "أستغفر الله العظيم الذي لا إله إلا هو الحي القيوم وأتوب إليه",
+      "translation": "I seek the forgiveness of Allah, the Almighty, there is no deity except Him, the Living, the Sustainer, and I repent to Him"
+    },
+    {
+      "id": 85,
+      "title": "دعاء الرزق",
+      "text": "اللَّهُمَّ ارزقني رزقاً طيباً مباركاً فيه",
+      "translation": "O Allah, provide for me good and blessed sustenance"
+    },
+    {
+      "id": 86,
+      "title": "دعاء دفع البلاء",
+      "text": "اللَّهُمَّ اصرف عنا البلاء والوباء والفتن ما ظهر منها وما بطن",
+      "translation": "O Allah, turn away from us afflictions, plagues, and trials, both apparent and hidden"
+    },
+    {
+      "id": 87,
+      "title": "دعاء راحة القلب",
+      "text": "اللَّهُمَّ املأ قلبي بنورك وسرورك ورضاك",
+      "translation": "O Allah, fill my heart with Your light, joy, and pleasure"
+    },
+    {
+      "id": 88,
+      "title": "دعاء الرزق بالحلال",
+      "text": "اللَّهُمَّ ارزقني رزقًا حلالًا طيبًا من غير كدٍّ ولا عناء",
+      "translation": "O Allah, provide me lawful and good sustenance without hardship or struggle"
+    },
+    {
+      "id": 89,
+      "title": "دعاء المحبة",
+      "text": "اللَّهُمَّ اجعلني محبوباً في قلوب عبادك",
+      "translation": "O Allah, make me beloved in the hearts of Your servants"
+    },
+    {
+      "id": 90,
+      "title": "دعاء الحكمة",
+      "text": "اللَّهُمَّ ارزقني حكمة وفصل الخطاب",
+      "translation": "O Allah, grant me wisdom and eloquent speech"
+    },
+    {
+      "id": 91,
+      "title": "دعاء للوالدين",
+      "text": "رَبِّ ارْحَمْهُمَا كَمَا رَبَّيَانِي صَغِيرًا",
+      "translation": "My Lord, have mercy upon them as they brought me up [when I was] small"
+    },
+    {
+      "id": 92,
+      "title": "دعاء حسن الظن بالله",
+      "text": "اللَّهُمَّ اجعلني أحسن الظن بك في جميع أموري",
+      "translation": "O Allah, make me think the best of You in all my affairs"
+    },
+    {
+      "id": 93,
+      "title": "دعاء النور",
+      "text": "اللَّهُمَّ اجعل في قلبي نوراً وفي لساني نوراً وفي سمعي نوراً وفي بصري نوراً",
+      "translation": "O Allah, place light in my heart, light on my tongue, light in my hearing, and light in my sight"
+    },
+    {
+      "id": 94,
+      "title": "دعاء الحفظ",
+      "text": "اللَّهُمَّ احفظني بحفظك الذي لا يرام",
+      "translation": "O Allah, protect me with Your protection that cannot be overcome"
+    },
+    {
+      "id": 95,
+      "title": "دعاء إدخال السرور",
+      "text": "اللَّهُمَّ اجعلني سببًا في إدخال السرور على قلوب الناس",
+      "translation": "O Allah, make me a means of bringing joy to people's hearts"
+    },
+    {
+      "id": 96,
+      "title": "دعاء قبول الأعمال",
+      "text": "اللَّهُمَّ تقبل مني صالح الأعمال",
+      "translation": "O Allah, accept from me righteous deeds"
+    },
+    {
+      "id": 97,
+      "title": "دعاء القناعة",
+      "text": "اللَّهُمَّ ارزقني قناعةً لا تزول",
+      "translation": "O Allah, grant me unwavering contentment"
+    },
+    {
+      "id": 98,
+      "title": "دعاء البصيرة",
+      "text": "اللَّهُمَّ أرني الحق حقًا وارزقني اتباعه وأرني الباطل باطلًا وارزقني اجتنابه",
+      "translation": "O Allah, show me the truth as truth and grant me the ability to follow it, and show me falsehood as falsehood and grant me the ability to avoid it"
+    },
+    {
+      "id": 99,
+      "title": "دعاء الأنس بالله",
+      "text": "اللَّهُمَّ اجعل أنسي بك وحدك",
+      "translation": "O Allah, make my solace with You alone"
+    },
+    {
+      "id": 100,
+      "title": "دعاء زيادة الإيمان",
+      "text": "اللَّهُمَّ زدني إيماناً ويقيناً وعلماً نافعاً",
+      "translation": "O Allah, increase me in faith, certainty, and beneficial knowledge"
+    },
+    {
+      "id": 101,
+      "title": "دعاء الاستقامة",
+      "text": "اللَّهُمَّ ثبتني على صراطك المستقيم",
+      "translation": "O Allah, keep me firm on Your straight path"
+    },
+    {
+      "id": 102,
+      "title": "دعاء الهداية",
+      "text": "اللَّهُمَّ اهدني وسددني",
+      "translation": "O Allah, guide me and make me upright"
+    },
+    {
+      "id": 103,
+      "title": "دعاء النجاة من الفتن",
+      "text": "اللَّهُمَّ نجني من الفتن ما ظهر منها وما بطن",
+      "translation": "O Allah, save me from the trials, both apparent and hidden"
+    },
+    {
+      "id": 104,
+      "title": "دعاء القرب من الله",
+      "text": "اللَّهُمَّ قربني إليك قرب المحبوبين",
+      "translation": "O Allah, draw me near to You like those You love"
+    },
+    {
+      "id": 105,
+      "title": "دعاء الرضا بالمقسوم",
+      "text": "اللَّهُمَّ رضني بما قسمت لي",
+      "translation": "O Allah, make me content with what You have allotted for me"
+    },
+    {
+      "id": 106,
+      "title": "دعاء يوم عرفة",
+      "text": "اللَّهُمَّ اجعلني من عتقائك من النار في يوم عرفة",
+      "translation": "O Allah, make me among those freed from the Fire on the Day of Arafah"
+    },
+    {
+      "id": 107,
+      "title": "دعاء غفران الذنوب",
+      "text": "اللَّهُمَّ اغفر لي ذنوبي كلها دقها وجلها، أولها وآخرها، سرها وعلانيتها",
+      "translation": "O Allah, forgive me all my sins, the minor and major, the first and last, the hidden and the apparent"
+    },
+    {
+      "id": 108,
+      "title": "دعاء الحياء",
+      "text": "اللَّهُمَّ ارزقني حياءً يحجزني عن معصيتك",
+      "translation": "O Allah, grant me modesty that prevents me from disobeying You"
+    },
+    {
+      "id": 109,
+      "title": "دعاء الاستعاذة من الشر",
+      "text": "اللَّهُمَّ إني أعوذ بك من شر ما عملت ومن شر ما لم أعمل",
+      "translation": "O Allah, I seek refuge in You from the evil of what I have done and from the evil of what I have not done"
+    },
+    {
+      "id": 110,
+      "title": "دعاء تحصين الأهل",
+      "text": "اللَّهُمَّ احفظ لي أهلي وأحبتي من كل سوء",
+      "translation": "O Allah, protect my family and loved ones from all harm"
+    },
+    {
+      "id": 111,
+      "title": "دعاء القبول",
+      "text": "اللَّهُمَّ اجعلني مقبولاً عندك وعند خلقك",
+      "translation": "O Allah, make me accepted by You and by Your creation"
+    },
+    {
+      "id": 112,
+      "title": "دعاء ضد الفقر",
+      "text": "اللَّهُمَّ اكفني بحلالك عن حرامك وأغنني بفضلك عن من سواك",
+      "translation": "O Allah, suffice me with Your lawful against Your forbidden and enrich me by Your favor from all others"
+    },
+    {
+      "id": 113,
+      "title": "دعاء طلب العلم",
+      "text": "اللَّهُمَّ علمنا ما ينفعنا وانفعنا بما علمتنا وزدنا علماً",
+      "translation": "O Allah, teach us what benefits us, benefit us with what You have taught us, and increase us in knowledge"
+    },
+    {
+      "id": 114,
+      "title": "دعاء طلب السلامة",
+      "text": "اللَّهُمَّ سلمني وسلم مني",
+      "translation": "O Allah, grant me safety and make me a source of safety"
+    },
+    {
+      "id": 115,
+      "title": "دعاء الثبات في الأمر",
+      "text": "اللَّهُمَّ ثبتني بالقول الثابت في الحياة الدنيا وفي الآخرة",
+      "translation": "O Allah, keep me firm with the firm word in this life and in the Hereafter"
+    },
+    {
+      "id": 116,
+      "title": "دعاء الرزق بالذرية الصالحة",
+      "text": "رَبِّ هَبْ لِي مِن لَّدُنكَ ذُرِّيَّةً طَيِّبَةً",
+      "translation": "My Lord, grant me from Yourself good offspring"
+    },
+    {
+      "id": 117,
+      "title": "دعاء الصبر عند المصيبة",
+      "text": "اللَّهُمَّ أجرني في مصيبتي واخلف لي خيراً منها",
+      "translation": "O Allah, reward me in my calamity and replace it for me with something better"
+    },
+    {
+      "id": 118,
+      "title": "دعاء التفويض",
+      "text": "اللَّهُمَّ إني فوضت أمري إليك",
+      "translation": "O Allah, I have entrusted my affairs to You"
+    },
+    {
+      "id": 119,
+      "title": "دعاء التيسير",
+      "text": "اللَّهُمَّ يسر لي كل أمر عسير",
+      "translation": "O Allah, make every difficult matter easy for me"
+    },
+    {
+      "id": 120,
+      "title": "دعاء طلب العفو",
+      "text": "اللَّهُمَّ إنك عفو تحب العفو فاعف عني",
+      "translation": "O Allah, You are Pardoning and You love pardon, so pardon me"
     }
   ]
 }
